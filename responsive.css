@@ -59,6 +59,11 @@
         width: 100%;
     
     }
+/* collection section  */
+
+    .collections-container {
+        grid-template-columns: 1fr;
+    }
 
 
 }
